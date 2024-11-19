@@ -1,0 +1,3 @@
+mov $0x401374,%rax
+movq $0xc0d9022,0x4040ec
+jmpq *%rax
